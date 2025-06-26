@@ -135,7 +135,7 @@ Update the credentials in backend/server.js to match your MySQL setup.
 
 ## OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/0c16f8f7-361a-43de-b3d0-315958d4ce41)
 
 
 
