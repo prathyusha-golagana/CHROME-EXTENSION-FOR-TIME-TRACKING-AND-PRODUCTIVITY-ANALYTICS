@@ -1,0 +1,1 @@
+// No-op for now; background handles tab activity.
